@@ -1,3 +1,8 @@
+'''
+Code et commantaires par Vincent Tremblay
+            mars 2024
+'''
+
 #tableau 1D (liste)
 tab1d = [4,5,6]
 
@@ -30,6 +35,6 @@ print(tab2d[1][2])
 '''
 Il est possible de faire des tableaux de taille n, il suffit de suivre la meme logique pour acceder aux valeurs
 
-Vincent Tremblay, mars 2024
+
 '''
 

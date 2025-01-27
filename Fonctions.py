@@ -1,11 +1,6 @@
 '''
 Code et commantaires par Vincent Tremblay
             21 mars 2024
-
-  Autres informations utile sur le code
-                ...
-                ...
-         fin des commentaires 
 '''
 
 # import des libraries
