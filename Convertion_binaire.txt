@@ -12,7 +12,7 @@ aux positions : 2⁸     2⁷     2⁶     2⁵     2⁴     2³     2²     2¹
 
 formule =      1*2⁸ + 0*2⁷ + 0*2⁶ + 1*2⁵ + 0*2⁴ + 0*2³ + 1*2² + 1*2¹ + 0*2⁰
 formule =      256  +  0   +  0   +  32  +  0   +  0   +  4   +  2   +  0
-formule =      293
+formule =      294
 
 la valeur decimal de 100100110 est 294
 
